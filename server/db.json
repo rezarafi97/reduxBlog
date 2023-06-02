@@ -1,0 +1,32 @@
+{
+  "blogs": [
+    {
+      "id": "2lX8NmnOoPuuctZLf440O",
+      "date": "2023-05-13T19:33:43.100Z",
+      "title": "پست اول",
+      "content": "سلام به دنیا\n",
+      "user": "FM5hDt5Z9L30-jDSUssG5",
+      "reactions": {
+        "thumbsUp": 0,
+        "hooray": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    }
+  ],
+  "users": [
+    {
+      "id": "FM5hDt5Z9L30-jDSUssG5",
+      "fullname": "رضا رفیع زاده"
+    },
+    {
+      "id": "5J2OBJklrKvwPz14bKKJT",
+      "fullname": "مهدی رفیع زاده"
+    },
+    {
+      "id": "tOUJyROp6b1rbi12LXT84",
+      "fullname": "محمد رفیع زاده"
+    }
+  ]
+}
